@@ -146,7 +146,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or feedback, feel free to reach out:
 
 - **Email**: nikita26.08.98nesterov@gmail.com
-- **GitHub**: [your-username](https://github.com/akayooo)
+- **GitHub**: [AKAYO](https://github.com/akayooo)
 
 ---
 
