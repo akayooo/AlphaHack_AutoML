@@ -107,6 +107,8 @@ To leverage GPU acceleration (recommended for faster training), ensure you have 
 ```
 automl-pipeline/
 ├── main.py                     # Main script to run the pipeline
+├── feature_selection.py        # Functions that helps filter and generate features 
+├── blend_of_models.py          # Features of models and functions of fitting models
 ├── requirements.txt            # List of dependencies
 ├── README.md                   # This file
 └── data.parquet                # Example dataset (replace with your data)
